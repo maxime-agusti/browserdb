@@ -1,0 +1,23 @@
+{
+  "name": "browserdb",
+  "homepage": "https://github.com/maximeag/browserdb",
+  "authors": [
+    "Maxime Agusti <maxime.agusti@etudiant.univ-lille1.fr>"
+  ],
+  "description": "Javascript library to use localstorage easly",
+  "main": "dist/browserdb.js",
+  "moduleType": [],
+  "keywords": [
+    "browserdb",
+    "localstorage",
+    "sessionstorage"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
