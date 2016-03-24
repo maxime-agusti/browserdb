@@ -1,5 +1,6 @@
 {
   "name": "browserdb",
+  "version": "1.0.0",
   "homepage": "https://github.com/maximeag/browserdb",
   "authors": [
     "Maxime Agusti <maxime.agusti@etudiant.univ-lille1.fr>"
